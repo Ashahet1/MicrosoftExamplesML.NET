@@ -1,0 +1,34 @@
+Categorize support issues using multiclass classification with ML.NET
+
+This sample tutorial illustrates using ML.NET to create a GitHub issue classifier to train a model that classifies and predicts the Area label for a GitHub issue via a .NET Core console application using C# in Visual Studio.
+
+In this tutorial, you learn how to:
+
+Prepare your data
+Transform the data
+Train the model
+Evaluate the model
+Predict with the trained model
+Deploy and Predict with a loaded model
+
+Result: 
+=============== Loading Dataset  ===============
+=============== Finished Loading Dataset  ===============
+=============== Processing Data ===============
+=============== Finished Processing Data ===============
+=============== Training the model  ===============
+=============== Finished Training the model Ending time: 4/8/2024 11:45:27 AM ===============
+=============== Single Prediction just-trained-model ===============
+=============== Single Prediction just-trained-model - Result: area-System.Net ===============
+=============== Evaluating to get model's accuracy metrics - Starting time: 4/8/2024 11:45:28 AM ===============
+=============== Evaluating to get model's accuracy metrics - Ending time: 4/8/2024 11:45:29 AM ===============
+*************************************************************************************************************
+*       Metrics for Multi-class Classification model - Test Data
+*------------------------------------------------------------------------------------------------------------
+*       MicroAccuracy:    0.737
+*       MacroAccuracy:    0.672
+*       LogLoss:          .907
+*       LogLossReduction: .648
+*************************************************************************************************************
+ML.NET\GitHubIssueClassification\bin\Debug\net8.0\..\..\..\Models\model.zip
+=============== Single Prediction - Result: area-System.Data ===============
