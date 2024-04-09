@@ -1,8 +1,7 @@
-Categorize support issues using multiclass classification with ML.NET
+MultiClass classification is the task of assigning data points to more than two predefined categories. It's like sorting items into multiple bins, 
+but instead of just two (like "yes" or "no"), you have several distinct categories.
 
-This sample tutorial illustrates using ML.NET to create a GitHub issue classifier to train a model that classifies and predicts the Area label for a GitHub issue via a .NET Core console application using C# in Visual Studio.
-
-In this tutorial, you learn how to:
+More info to follow link is here -> https://learn.microsoft.com/en-us/dotnet/machine-learning/tutorials/github-issue-classification
 
 Prepare your data
 Transform the data
