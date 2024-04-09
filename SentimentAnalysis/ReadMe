@@ -1,20 +1,19 @@
-This tutorial shows you how to create a .NET Core console application that classifies sentiment from website comments and takes the appropriate action. The binary sentiment classifier uses C# in Visual Studio 2022.
+Example 1: Basic Classification (Binary Classification):
 
-In this tutorial, you learn how to:
+- Deals with classifying data points into **exactly two** predefined categories.
+- Often referred to as binary classification because there are only two possible outcomes.
+- Examples:
+    - Spam email detection (spam or not spam)
+    - Image classification (cat or dog)
+    - Sentiment analysis (positive or negative review)
 
-Create a console application
-Prepare data
-Load the data
-Build and train the model
-Evaluate the model
-Use the model to make a prediction
-See the results.
+To follow steps, here is the link --> https://learn.microsoft.com/en-us/dotnet/machine-learning/tutorials/sentiment-analysis
 
 Below is the result: 
 =============== Create and Train the Model =================
 =============== End of the Training =================
 
-================ Evaluateing Model accuracy with the Test Data ==============
+================ Evaluating Model accuracy with the Test Data ==============
 
 Model quality metrics evaluation
 --------------------------------
