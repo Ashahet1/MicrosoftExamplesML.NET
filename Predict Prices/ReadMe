@@ -1,1 +1,26 @@
-Predict prices using regression with ML.NET
+Predict prices using regression with ML.NET.
+
+This tutorial illustrates how to build a regression model using ML.NET to predict prices, specifically, New York City taxi fares.
+
+In this tutorial, you learn how to:
+
+Prepare and understand the data
+Load and transform the data
+Choose a learning algorithm
+Train the model
+Evaluate the model
+Use the model for predictions
+
+Regression:
+
+A supervised machine learning task that is used to predict the value of the label from a set of related features. 
+The label can be of any real value and is not from a finite set of values as in classification tasks. 
+Regression algorithms model the dependency of the label on its related features to determine how the label will change as the values of the features are varied. 
+The input of a regression algorithm is a set of examples with labels of known values. 
+The output of a regression algorithm is a function, which you can use to predict the label value for any new set of input features. Examples of regression scenarios include:
+
+Predicting house prices based on house attributes such as number of bedrooms, location, or size.
+Predicting future stock prices based on historical data and current market trends.
+Predicting sales of a product based on advertising budgets.
+
+For more information can read: https://learn.microsoft.com/en-us/dotnet/machine-learning/resources/tasks#regression
