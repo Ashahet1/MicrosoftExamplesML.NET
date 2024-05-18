@@ -1,0 +1,34 @@
++-----------------------------+
+| Initialize APIs             |
+| - PRAW (Reddit)             |
+| - OpenAI                    |
++-------------+---------------+
+              |
+              v
++-------------+---------------+
+| Fetch Reddit Data            |
+| - Subreddit: OMSCS           |
+| - Query: advice              |
+| - Function: fetch_reddit_data|
++-------------+---------------+
+              |
+              v
++-------------+---------------+
+| Generate Responses with OpenAI|
+| - Function: generate_response |
++-------------+---------------+
+              |
+              v
++-------------+---------------+
+| Chatbot Logic                |
+| - Process fetched comments   |
+| - Call generate_response     |
+| - Print responses            |
+| - Function: chat_with_comments|
++-------------+---------------+
+              |
+              v
++-------------+---------------+
+| Run the Chatbot              |
+| - Function: chat_with_comments|
++-----------------------------+
