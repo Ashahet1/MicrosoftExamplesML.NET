@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "B4fZOJQ/8+hm6+OQ20geHsmZ67aqtxPjq92WgTUNHuyHSgPv/36WXLc77BVTTsev/QBqaJu4w0D+1aBSrdF7ug==",
+  "dgSpecHash": "Lt7sW4Mz7L0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\rishah\\OneDrive\\Desktop\\Microsoft ML.NET\\SentimentAnalysis\\SentimentAnalysis\\SentimentAnalysis.csproj",
+  "projectFilePath": "C:\\Users\\rishah\\source\\repos\\MicrosoftExamplesML.NET\\SentimentAnalysis\\SentimentAnalysis\\SentimentAnalysis.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rishah\\.nuget\\packages\\microsoft.ml\\3.0.1\\microsoft.ml.3.0.1.nupkg.sha512",
     "C:\\Users\\rishah\\.nuget\\packages\\microsoft.ml.cpumath\\3.0.1\\microsoft.ml.cpumath.3.0.1.nupkg.sha512",

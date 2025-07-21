@@ -1,20 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rishah\\OneDrive\\Desktop\\Microsoft ML.NET\\SentimentAnalysis\\SentimentAnalysis\\SentimentAnalysis.csproj": {}
+    "C:\\Users\\rishah\\source\\repos\\MicrosoftExamplesML.NET\\SentimentAnalysis\\SentimentAnalysis\\SentimentAnalysis.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rishah\\OneDrive\\Desktop\\Microsoft ML.NET\\SentimentAnalysis\\SentimentAnalysis\\SentimentAnalysis.csproj": {
+    "C:\\Users\\rishah\\source\\repos\\MicrosoftExamplesML.NET\\SentimentAnalysis\\SentimentAnalysis\\SentimentAnalysis.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rishah\\OneDrive\\Desktop\\Microsoft ML.NET\\SentimentAnalysis\\SentimentAnalysis\\SentimentAnalysis.csproj",
+        "projectUniqueName": "C:\\Users\\rishah\\source\\repos\\MicrosoftExamplesML.NET\\SentimentAnalysis\\SentimentAnalysis\\SentimentAnalysis.csproj",
         "projectName": "SentimentAnalysis",
-        "projectPath": "C:\\Users\\rishah\\OneDrive\\Desktop\\Microsoft ML.NET\\SentimentAnalysis\\SentimentAnalysis\\SentimentAnalysis.csproj",
+        "projectPath": "C:\\Users\\rishah\\source\\repos\\MicrosoftExamplesML.NET\\SentimentAnalysis\\SentimentAnalysis\\SentimentAnalysis.csproj",
         "packagesPath": "C:\\Users\\rishah\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rishah\\OneDrive\\Desktop\\Microsoft ML.NET\\SentimentAnalysis\\SentimentAnalysis\\obj\\",
+        "outputPath": "C:\\Users\\rishah\\source\\repos\\MicrosoftExamplesML.NET\\SentimentAnalysis\\SentimentAnalysis\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
           "C:\\Users\\rishah\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -44,7 +45,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -71,7 +73,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
